@@ -1,19 +1,15 @@
 <H1> Rey Daoud </H1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=1a1a1a&height=100&section=header&text=%3E%20DESIGN_MODE%20ACTIVE&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=00ffc8" />
-</p>
-
 ---
 
 🎚️ PERFORMANCE DASHBOARD
 
-**[ MECHANICAL DESIGN ]**
+[ MECHANICAL DESIGN ]
 `Onshape` ▬▬▬▬▬▬▬▬▬▬▬▬▬──────────🔘 `50%`
-**[ INTERFACE LAYER ]**
+[ INTERFACE LAYER ]
 `HTML / CSS` ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘── `90%`
 `JavaScript` ▬▬▬▬▬▬▬🔘─────────────── `80%`
-**[ LOGIC & AUTOMATION ]**
+[ LOGIC & AUTOMATION ]
 `Python` ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘──────── `65%`
 ---
 

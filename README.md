@@ -1,17 +1,34 @@
 <H1> Rey Daoud </H1>
 
 ---
+ABOUT ME:
+I'm a space enthusiast specializing in python. CAD is a new skill i am learning and hoping to become professional at.
 
-🎚️ PERFORMANCE DASHBOARD
+🎙️-PROJECTS/XCURRICULARS:
+- Makeshift heat shield (Currently in progress).
+- Social experiment regarding benificial facts learnt by social media platforms.
+- Writing a book: Numbers of fate.
+- Assistant coach with GeekExpress at XMAS Camp 2025.
+- STEM Ed Certification from GeekExpress coding school.
+- Vangaurd Assistant in LSA.
+- Experienced 9 years member at Lebanese Scouts Association.
+
+
+🎚️-PERFORMANCE DASHBOARD
 
 [ MECHANICAL DESIGN ]
 `Onshape` ▬▬▬▬▬▬▬▬▬▬▬▬▬──────────🔘 `50%`
+
 [ INTERFACE LAYER ]
 `HTML / CSS` ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘── `90%`
+
 `JavaScript` ▬▬▬▬▬▬▬🔘─────────────── `80%`
+
 [ LOGIC & AUTOMATION ]
 `Python` ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘──────── `65%`
+
 ---
+
 
 ## 🛠️ TECH STACK
 
@@ -21,3 +38,8 @@
 | ![CAD](https://img.shields.io/badge/CAD-444444?style=for-the-badge&logo=autodesk&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | ![3DPrint](https://img.shields.io/badge/3D_Printing-FF6600?style=for-the-badge&logo=makerbot&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
+<img width="309" height="163" alt="image" src="https://github.com/user-attachments/assets/f9536d20-61c8-4f4d-8f71-b453e9c4f0b7" />
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/3c12ac11-2bdc-4e93-9b09-e982dd9fa4db" />
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/fe379411-447d-49e5-96f4-9494e352410b" />

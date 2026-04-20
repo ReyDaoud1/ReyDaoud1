@@ -1,14 +1,3 @@
-<style>
-.image-container {
-  display: flex;
-  justify-content: space-around; /* Distributes images with equal spacing */
-  align-items: center;          /* Vertically centers images */
-}
-.image-container img {
-  width: 30%;                   /* Ensures 3 images fit on one line */
-  height: auto;
-}
-</style>
 
 <H1> Rey Daoud </H1>
 
@@ -52,8 +41,3 @@ I'm a space enthusiast specializing in python. CAD is a new skill i am learning 
 
 <div class="image-container">
   <img width="309" height="163" alt="image" src="https://github.com/user-attachments/assets/f9536d20-61c8-4f4d-8f71-b453e9c4f0b7" />
-
-  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/3c12ac11-2bdc-4e93-9b09-e982dd9fa4db" />
-
-  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/fe379411-447d-49e5-96f4-9494e352410b" />
-</div>

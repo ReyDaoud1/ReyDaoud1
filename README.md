@@ -1,3 +1,4 @@
+<style>
 .image-container {
   display: flex;
   justify-content: space-around; /* Distributes images with equal spacing */
@@ -7,7 +8,7 @@
   width: 30%;                   /* Ensures 3 images fit on one line */
   height: auto;
 }
-
+</style>
 
 <H1> Rey Daoud </H1>
 

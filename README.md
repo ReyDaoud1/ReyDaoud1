@@ -1,3 +1,14 @@
+.image-container {
+  display: flex;
+  justify-content: space-around; /* Distributes images with equal spacing */
+  align-items: center;          /* Vertically centers images */
+}
+.image-container img {
+  width: 30%;                   /* Ensures 3 images fit on one line */
+  height: auto;
+}
+
+
 <H1> Rey Daoud </H1>
 
 ---
@@ -38,9 +49,10 @@ I'm a space enthusiast specializing in python. CAD is a new skill i am learning 
 | ![CAD](https://img.shields.io/badge/CAD-444444?style=for-the-badge&logo=autodesk&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | ![3DPrint](https://img.shields.io/badge/3D_Printing-FF6600?style=for-the-badge&logo=makerbot&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
-<p> <img width="309" height="163" alt="image" src="https://github.com/user-attachments/assets/f9536d20-61c8-4f4d-8f71-b453e9c4f0b7" />
+<div class="image-container">
+  <img width="309" height="163" alt="image" src="https://github.com/user-attachments/assets/f9536d20-61c8-4f4d-8f71-b453e9c4f0b7" />
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/3c12ac11-2bdc-4e93-9b09-e982dd9fa4db" />
+  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/3c12ac11-2bdc-4e93-9b09-e982dd9fa4db" />
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/fe379411-447d-49e5-96f4-9494e352410b" />
-</p>
+  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/fe379411-447d-49e5-96f4-9494e352410b" />
+</div>

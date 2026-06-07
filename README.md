@@ -6,11 +6,11 @@ ABOUT ME:
 I'm a space enthusiast specializing in python. CAD is a new skill i am learning and hoping to become professional at.
 
 🎙️-PROJECTS/XCURRICULARS:
-- Makeshift heat shield (Currently in progress).
+- Creating Programming language.
 - Social experiment regarding benificial facts learnt by social media platforms.
 - Writing a book: Numbers of fate.
-- Assistant coach with GeekExpress at XMAS Camp 2025.
-- STEM Ed Certification from GeekExpress coding school.
+- Assistant coach with GeekExpress at XMAS Camp 2025 at 13.
+- 4 STEM Ed Certifications from GeekExpress coding school.
 - Vangaurd Assistant in LSA.
 - Experienced 9 years member at Lebanese Scouts Association.
 
